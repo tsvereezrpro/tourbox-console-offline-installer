@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Creative+Controller-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TourBox Console Free Installer** — TourBox Console software manages TourBox hardware controllers — compact dial-and-button devices designed for creative professionals. Works without internet access, no account required. Full offline installation.
+**💻 TourBox Console Free Installer** — TourBox Console is the configuration software for TourBox hardware controllers — tactile devices designed for photo editors, video editors, and digital artists. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TourBox Console
 
-TourBox Console software manages TourBox hardware controllers — compact dial-and-button devices designed for creative professionals. Configure knobs, dials, and buttons to control Photoshop, Lightroom, Premiere, and other creative applications with intuitive tactile input. TourBox's customizable button mapping and application-specific profiles optimize the creative editing workflow for photo and video professionals.
+TourBox Console is the configuration software for TourBox hardware controllers — tactile devices designed for photo editors, video editors, and digital artists. It allows mapping any application action to TourBox's dials, knobs, and buttons for efficient creative workflows.
 
 ---
 
 ## ❌ Problem: TourBox Console is hard to access
 
-- **Hardware Required** — Software only functions with TourBox physical controllers
-- **Hardware Cost** — TourBox Elite and Neo cost $170-$270
-- **Application Support** — Coverage for niche creative applications may require custom configuration
-- **Learning Curve** — Maximizing efficiency requires learning custom button mappings
+- **Hardware Required** — Software only useful alongside TourBox hardware device
+- **Learning Period** — Customizing and memorizing knob-action mappings takes significant practice
+- **Limited Application Profiles** — Pre-made profiles available for major apps; niche apps require manual setup
+- **Connectivity** — Bluetooth connection can occasionally experience dropouts
 
 ---
 
@@ -121,7 +121,7 @@ TourBox Console software manages TourBox hardware controllers — compact dial-a
 
 ---
 
-**TourBox Console Free Installer** — TourBox Console software manages TourBox hardware controllers — compact dial-and-button devices designed for creative professionals. Install without internet connection today!
+**TourBox Console Free Installer** — TourBox Console is the configuration software for TourBox hardware controllers — tactile devices designed for photo editors, video editors, and digital artists. Install without internet connection today!
 
 <div align="center">
 
